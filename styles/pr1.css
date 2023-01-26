@@ -1,0 +1,109 @@
+h1{
+    background-color: azure;
+  /* border: 2px solid rgb(252, 249, 249); */ 
+   
+}
+p{
+  border: 2px solid rgb(252, 249, 249);
+  margin: 4px;
+}
+img {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius:  50%;
+    padding: 10px;
+    max-width: 70%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .material-symbols-outlined {
+    padding: 10px;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 1000,
+    'GRAD' 0,
+    'opsz' 48
+  }
+  .b1{
+    display: inline-block;
+    background-color:rgb(88, 214, 141) ;
+    margin: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-right: 25px;
+    border-radius: 20px;
+  }
+  .b1 .button1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    border-radius: 30px;
+    border-color: transparent;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 40px;
+  }
+  .b1:hover{
+    background-color: rgb(22, 162, 83);
+  }
+  .b2{
+    display: inline-block;
+    background-color:rgb(91, 99, 163) ;
+    margin: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-right: 25px;
+    border-radius: 20px;
+  }
+  .b2 .button2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    border-radius: 30px;
+    border-color: transparent;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 40px;
+  }
+  .b2:hover{
+    background-color: rgb(84, 110, 225);
+  }
+  .b3{
+    
+    display: inline-block;
+    background-color:rgb(213, 220, 19) ;
+    margin: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-right: 25px;
+    border-radius: 20px;
+  }
+  .b3 .button3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    border-radius: 30px;
+    border-color: transparent;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 40px;
+  }
+  .b3:hover{
+    background-color: rgb(218, 225, 84);
+  }
+  .b4{
+    
+    display: inline-block;
+    background-color:rgb(203, 94, 11) ;
+    margin: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-right: 25px;
+    border-radius: 20px;
+  }
+  .b4 .button4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    border-radius: 30px;
+    border-color: transparent;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 40px;
+  }
+  .b4:hover{
+    background-color: rgb(174, 137, 108);
+  }
