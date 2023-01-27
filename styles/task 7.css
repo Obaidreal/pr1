@@ -1,0 +1,136 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans;
+}
+.footerbox{
+    background: #666;
+	box-shadow: 0 1px 1px 0 rgba(15, 159, 111, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 55px 50px;
+    margin-top: 476.5px;
+}
+.footerbox .footer_1,
+.footerbox .footer_2,
+.footerbox .footer_3
+{
+    display: inline-block;
+    vertical-align:top;
+}
+.footerbox .footer_1{
+    width: 33%;
+}
+.footerbox .footer_2{
+    width: 35%;
+}
+.footerbox .footer_3{
+    width: 30%;
+    text-align: right;
+}
+.footerbox h3{
+	color:  #ffffff;
+	font: normal 36px 'Open Sans', cursive;
+}
+.footerbox span{
+	color:  #7c19d2;
+}
+.footerbox .pages{
+	color:  #ffffff;
+	margin: 20px 0 12px;
+	padding: 0;
+}
+.footerbox .footer-company-name{
+    display: inline-block;
+	color:  #222;
+	font-size: 15px;
+	font-weight: normal;
+	margin: 0;
+}
+.footerbox .footer_2 i{
+	background-color:  #414c54;
+	color: #ffffff;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.footerbox .footer2 i.fa-envelope{
+	font-size: 25px;
+	line-height: 42px;
+}
+
+.footerbox .footer_2 p{
+	display: inline-block;
+	color: #f0efef;
+  font-weight:400;
+	vertical-align: middle;
+	margin:0;
+}
+
+.footerbox .footer_2 span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footerbox .footer_2 p, a{
+	color:  #a99d9d;
+	text-decoration: none;;
+}
+
+.footerbox .pages a:before {
+  content: "|";
+  font-weight:4px;
+  font-size: 20px;
+  left: 0;
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  padding-right: 5px;
+}
+
+
+.footerbox .footer_3 span{
+	display: block;
+    font-family: Open Sans;
+	color:  #ffffff;
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+
+.footerbox .footer_3 icons{
+	margin-top: 25px;
+}
+.footerbox .footer_2 span{
+    color: rgb(5, 3, 3);
+    font-style: normal;
+}
+.footerbox .footer_3 .icons a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+.footerbox .footer_2 p a{
+    color: #7c19d2;
+}
+

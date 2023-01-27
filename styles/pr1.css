@@ -52,7 +52,9 @@
 .btn-5 {
   background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
 }
-
+.btn-6 {
+  background-image: linear-gradient(to right, #ffecd2 0%, #529d4b 51%, #ffecd2 100%);
+}
 
 
 h1{
