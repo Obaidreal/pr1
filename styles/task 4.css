@@ -12,7 +12,7 @@
     height: 100%;
     width: 100%;
     align-items: center;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
     
 }
 
@@ -20,11 +20,12 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
     height: 90px;
-    width: 60%;
-    padding: 100px 190px 0px 150px;
+    width: 550px;
+    padding: 100px 150px 0px 450px;
 }
 
 .header_area h1{
+    
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 18px 0;
@@ -38,9 +39,9 @@
     background-position: center;
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    row-gap: 8px;
-    column-gap: 6px;
-    padding: 0px 350px 0px 150px;
+    row-gap: 5px;
+    column-gap: 5px;
+    padding: 0px 450px 0px 450px;
     
 }
 
@@ -48,7 +49,7 @@
     display: flex;
     font-weight:bold;
     height: 70px;
-    width: 85px;
+    width: 75px;
     border-radius: 10px;
     font-style: bold;
     text-shadow: rgb(255, 255, 255);
