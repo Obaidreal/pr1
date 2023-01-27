@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+.container{
+    background: url(../assets/pexels-susan-wilkinson-12169613.jpg);
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    padding-bottom: 50px;
+
+}
+
+.header_area{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    height: 90px;
+    width: 675px;
+    padding: 100px 190px 0px 150px;
+}
+
+.header_area h1{
+    color: rgb(0, 0, 0);
+    /*border: inline-block;*/
+    text-align: center;
+    padding: 18px 0;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.months{
+    display: grid;
+    font-size: 15px;
+    background-position: center;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    row-gap: 8px;
+    column-gap: 5px;
+    padding: 0px 450px 0px 150px;
+    
+}
+
+.date{
+    display: flex;
+    font-weight:bold;
+    height: 70px;
+    width: 85px;
+    border-radius: 10px;
+    font-style: bold;
+    text-shadow: rgb(255, 255, 255);
+    background-color: rgb(187, 255, 230);
+    align-items: center;
+    justify-content: center;
+}
+
+
+
