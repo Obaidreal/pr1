@@ -13,20 +13,19 @@
     width: 100%;
     align-items: center;
     padding-bottom: 50px;
-
+    
 }
 
 .header_area{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
     height: 90px;
-    width: 720px;
+    width: 60%;
     padding: 100px 190px 0px 150px;
 }
 
 .header_area h1{
     color: rgb(0, 0, 0);
-    /*border: inline-block;*/
     text-align: center;
     padding: 18px 0;
     background-color: rgb(255, 255, 255);
@@ -39,9 +38,9 @@
     background-position: center;
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    row-gap: 5px;
-    column-gap: 5px;
-    padding: 0px 450px 0px 150px;
+    row-gap: 8px;
+    column-gap: 6px;
+    padding: 0px 350px 0px 150px;
     
 }
 
