@@ -20,7 +20,7 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     align-items: center;
     height: 90px;
-    width: 675px;
+    width: 720px;
     padding: 100px 190px 0px 150px;
 }
 
@@ -39,7 +39,7 @@
     background-position: center;
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    row-gap: 8px;
+    row-gap: 5px;
     column-gap: 5px;
     padding: 0px 450px 0px 150px;
     
